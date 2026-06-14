@@ -96,5 +96,6 @@ Add the following to `.gitignore`:
 node_modules/
 .env
 ```
-
+public URL:
+https://roadmap.sh/projects/tmdb-cli
 Do not commit your API key to GitHub.
