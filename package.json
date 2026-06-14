@@ -1,0 +1,12 @@
+{
+  "name": "tmdb-app",
+  "version": "1.0.0",
+  "description": "TMDB movie CLI tool",
+  "main": "index.js",
+  "bin": {
+    "tmdb-app": "./src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
